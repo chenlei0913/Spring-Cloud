@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Config-Client:war">
+    <output-path>$PROJECT_DIR$/Config-Client/target</output-path>
+    <root id="archive" name="Config-Client.war">
+      <element id="artifact" artifact-name="Config-Client:war exploded" />
+    </root>
+  </artifact>
+</component>
